@@ -108,6 +108,7 @@ function encryptAES(text) {
 }
 // Función de descifrado AES-256-CBC
 function decryptAES(encryptedText) {
+    const key = Buffer.from(process.env.ENCRYPTION_KEY, 'utf8');
     const iv = Buffer.from(encryptedText.slice(0, 32), 'hex');
     const encrypted = encryptedText.slice(32);
     const decipher = crypto.createDecipheriv('aes-256-cbc', key, iv);
@@ -115,7 +116,6 @@ function decryptAES(encryptedText) {
     decrypted += decipher.final('utf8');
     return decrypted;
 }
-
 // Registro de usuario
 app.post('/register', async (req, res) => {
     const { username, password } = req.body;
