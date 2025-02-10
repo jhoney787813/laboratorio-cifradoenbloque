@@ -5,4 +5,5 @@ En este laboratorio, se implementa un sistema de autenticación con cifrado en b
 
 [-> Ver Porque Cifrar en bloque ](https://github.com/jhoney787813/laboratorio-cifradoenbloque/blob/main/porque_cifrado.md)
 
+[-> Video Completo Paso a Paso ]()
 
