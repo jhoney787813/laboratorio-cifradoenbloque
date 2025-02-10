@@ -9,6 +9,10 @@
 
 ---
 
+[-> Ver Porque Cifrar en bloque ](https://github.com/jhoney787813/laboratorio-cifradoenbloque/blob/main/porque_cifrado.md)
+
+[-> Video Completo de explicación practica](https://youtu.be/3OX7Kjzk9FE)
+
 ## **Resumen**
 En este laboratorio, se implementa un sistema de autenticación con cifrado en bloque mediante el algoritmo **AES-256-CBC**. Se utiliza **Node.js**, **SQLite** y **bcrypt** para cifrar y almacenar credenciales de manera segura. La implementación sigue las mejores prácticas de seguridad y se prueba en un entorno **macOS**.
 
