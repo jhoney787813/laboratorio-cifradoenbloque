@@ -162,7 +162,9 @@ curl -X POST http://localhost:3000/login -H "Content-Type: application/json" -d 
 ## **4. Conclusiones**
 - Se implementó un sistema de autenticación basado en **cifrado en bloque (AES-256-CBC)** para proteger las credenciales.  
 - **bcrypt** se usó para agregar una capa adicional de seguridad, protegiendo contra ataques de diccionario y fuerza bruta.  
-- La solución es ligera y fácil de integrar en aplicaciones modernas, asegurando una autenticación segura en servidores existentes.  
+- La solución es ligera y fácil de integrar en aplicaciones modernas, asegurando una autenticación segura en servidores existentes.
+
+[-> Ver Porque Cifrar en bloque ](https://github.com/jhoney787813/laboratorio-cifradoenbloque/blob/main/porque_cifrado.md)
 
 ---
 
