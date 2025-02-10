@@ -170,14 +170,6 @@ curl -X POST http://localhost:3000/login -H "Content-Type: application/json" -d 
 - Ferguson, N., Schneier, B., & Kohno, T. (2010). *Cryptography Engineering: Design Principles and Practical Applications*. John Wiley & Sons.  
 - Menezes, A. J., Van Oorschot, P. C., & Vanstone, S. A. (1996). *Handbook of Applied Cryptography*. CRC Press.  
 
----
-
-## 🚀 **Instrucciones Finales**
-- Guarda este archivo como **`README.md`** y súbelo a **GitHub o Notion**.  
-- Si lo deseas compilar en PDF, usa **pandoc** con el siguiente comando:  
-  ```sh
-  pandoc README.md -o laboratorio.pdf
-  ```
 
 ---
 
