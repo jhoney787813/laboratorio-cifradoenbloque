@@ -23,7 +23,7 @@ En este laboratorio, se implementa un mecanismo de autenticación segura que com
 
 ---
 
-## **1. Materiales y Métodos**
+## **1. Recursos y Métodos**
 
 ### **1.1 Requisitos**
 Para la implementación del laboratorio en **macOS**, se requieren los siguientes elementos:
