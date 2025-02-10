@@ -146,6 +146,12 @@ app.post('/login', async (req, res) => {
 app.listen(3000, () => console.log('🌍 Servidor en http://localhost:3000'));
 ```
 
+
+## **Ejecutar comando para lanzar ka Aplicación**
+```cmd
+node server.js
+
+```
 ---
 
 ## **3. Resultados y Pruebas**
