@@ -1,4 +1,4 @@
-# laboratorio-cifradoenbloque
+# Laboratorio sobre Cifrado en Bloque en Servidores de Autenticación
 
 La autenticación de usuarios es una parte fundamental en la seguridad de la información. Los sistemas modernos requieren el uso de cifrado fuerte para proteger credenciales contra ataques de fuerza bruta y acceso no autorizado.
 
